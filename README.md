@@ -4,8 +4,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/eliab-arruda-da-siva-9158ba116/)](https://www.linkedin.com/in/eliab-arruda-da-siva-9158ba116/)
 
 ## About me
-#### I'm a back-end developer and a Computer Science student
-#### I like Java code challenges, learn to Web Development and solve logic problems 
+Hello everyone, I'm a back-end developer and a Computer Science student.
+
+I like Java code challenges, learning Web Development and solving logic problems
+
+Especially when it comes to chess. In my spare time, I am an avid chess player!
 #
 ## Skills
 - [Certificates](https://www.linkedin.com/in/eliab-arruda-da-siva-9158ba116/recent-activity/shares/) 👨🏼‍🏫 - Here are some technologies I use to improve my development:
@@ -18,6 +21,9 @@
 - [Currently Project](https://github.com/EliabArruda/padroes_de_projetos_desafio_parte2) <> - Working on it
 
 ![Eliab's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliabArruda&theme=codeSTACKr&show_icons=true)
+
+## Hobbies
+- [Chess](https://www.chess.com/member/eliabas)
 
 <!---
 EliabArruda/EliabArruda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -20,7 +20,7 @@ Especially when it comes to chess. In my spare time, I am an avid chess player!
 - [Digital Innovation One](https://web.dio.me/users/eliabad20t) 💻
 - [Currently Project](https://github.com/EliabArruda/sgp) <> - Working on it
 
-![Eliab's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliabArruda&theme=codeSTACKr&show_icons=true)
+[![Eliab's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliabArruda&theme=codeSTACKr&show_icons=true)
 
 ## Hobbies
 - [Chess](https://www.chess.com/member/eliabas)

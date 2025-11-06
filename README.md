@@ -18,7 +18,7 @@ Especially when it comes to chess. In my spare time, I am an avid chess player!
 - [Git](https://www.linkedin.com/feed/update/urn:li:activity:6932729535448674304/)
 - [POO](https://www.linkedin.com/feed/update/urn:li:activity:6957773994016018432/)  
 - [Digital Innovation One](https://web.dio.me/users/eliabad20t) 💻
-- [Currently Project](https://github.com/EliabArruda/sgp) <> - Working on it
+- [Currently Project](https://github.com/EliabArruda/controle-estudos) <> - Working on it
 
 [![Eliab's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=EliabArruda&show_icons=true&theme=cobalt2#)](https://github.com/EliabArruda/github-readme-stats)
 

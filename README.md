@@ -1,7 +1,7 @@
-# Hello Everyone:D
+# Hello Everyone :D
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/EliabArruda)](https://github.com/EliabArruda)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/eliab-arruda-da-siva-9158ba116/)](https://www.linkedin.com/in/eliab-arruda-da-siva-9158ba116/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/EliabArruda)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eliab-arruda-da-siva-9158ba116/)
 
 ## About me
 Hello everyone, I'm a back-end developer and a Computer Science student.
@@ -9,23 +9,32 @@ Hello everyone, I'm a back-end developer and a Computer Science student.
 I like Java code challenges, learning Web Development and solving logic problems
 
 Especially when it comes to chess. In my spare time, I am an avid chess player!
-#
-## Skills
-- [Certificates](https://www.linkedin.com/in/eliab-arruda-da-siva-9158ba116/recent-activity/shares/) 👨🏼‍🏫 - Here are some technologies I use to improve my development:
-- [Java](https://www.linkedin.com/feed/update/urn:li:activity:6937118432098177024/)
-- [Spring Framework](https://www.linkedin.com/feed/update/urn:li:activity:6996180848630722560/)
-- [Maven](https://www.linkedin.com/feed/update/urn:li:activity:6963195775262601216/) 
-- [Git](https://www.linkedin.com/feed/update/urn:li:activity:6932729535448674304/)
-- [POO](https://www.linkedin.com/feed/update/urn:li:activity:6957773994016018432/)  
+
+## 🛠 Skills & Technologies
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</div>
+
+- [Certificates](https://www.linkedin.com/in/eliab-arruda-da-siva-9158ba116/recent-activity/shares/) 👨🏼‍🏫
 - [Digital Innovation One](https://web.dio.me/users/eliabad20t) 💻
 - [Currently Project](https://github.com/EliabArruda/controle-estudos) <> - Working on it
 
-[![Eliab's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=EliabArruda&show_icons=true&theme=cobalt2#)](https://github.com/EliabArruda/github-readme-stats)
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EliabArruda&show_icons=true&theme=cobalt2&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliabArruda&layout=compact&theme=cobalt2&hide_border=true" />
+</div>
 
 ## Hobbies
-- [Chess](https://www.chess.com/member/eliabas)
+- [Chess](https://www.chess.com/member/eliabas) ♟️
 
+---
 <!---
 EliabArruda/EliabArruda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->

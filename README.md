@@ -32,13 +32,29 @@ I like **Java** code challenges, learning **Web Development** and solving logic 
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Metrics
+
 <div align="center">
-  <img src="https://github-readme-stats-kappa-nine-82.vercel.app/api?username=EliabArruda&show_icons=true&theme=cobalt2&hide_border=true&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats-kappa-nine-82.vercel.app/api/top-langs/?username=EliabArruda&layout=compact&theme=cobalt2&hide_border=true&langs_count=6" />
-  <br>
-  <!-- Troféus para dar um visual de progresso -->
-  <img src="https://github-profile-trophy.vercel.app/?username=EliabArruda&theme=cobalt2&no-bg=true" />
+  
+  <!-- Tabela Invisível para garantir o alinhamento lado a lado -->
+  <table align="center" border="0">
+    <tr>
+      <td align="center" width="450">
+        <!-- Card de Estatísticas Principal (Tema 'Dracula' para alto contraste) -->
+        <img src="https://github-readme-stats-kappa-nine-82.vercel.app/api?username=EliabArruda&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&hide_title=true&line_height=30" />
+      </td>
+      <td align="center" width="450">
+        <!-- Card de Linguagens (Tema 'Dracula') -->
+        <img src="https://github-readme-stats-kappa-nine-82.vercel.app/api/top-langs/?username=EliabArruda&layout=compact&theme=dracula&hide_border=true&langs_count=6" />
+      </td>
+    </tr>
+  </table>
+
+  <!-- Removido o 'GitHub Trophies' que estava quebrando para garantir a estabilidade visual -->
+  
+  <!-- Adicionado um contador de visualizações profissional -->
+  <img src="https://komarev.com/ghpvc/?username=EliabArruda&style=for-the-badge&color=blue" alt="Visitor Count" />
+
 </div>
 
 ## ♟️ Hobbies

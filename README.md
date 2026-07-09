@@ -13,13 +13,14 @@ Hello everyone, I'm a back-end developer and a Computer Science student. I like 
 ---
 
 ## 🛠 Tech Stack
-<div align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white" />
-</div>
+
+### 🛠 Back-end
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+
+### 🌐 Data & Tools
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 ---
 
@@ -45,5 +46,11 @@ Hello everyone, I'm a back-end developer and a Computer Science student. I like 
   
   <br>
   
-## ♟️ Hobbies
-- **Chess**: [My profile on Chess.com](https://www.chess.com/member/eliabas) ♟️
+## 📊 Hobbies
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://chess-readme-stats.vercel.app/api/card/eliabarruda2022.svg" /></td>
+    </tr>
+  </table>
+</div>

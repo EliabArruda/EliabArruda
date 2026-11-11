@@ -50,7 +50,7 @@ Hello everyone, I'm a back-end developer and a Computer Science student. I like 
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://chess-readme-stats.vercel.app/api/card/eliabarruda2022.svg" /></td>
+      <td><img src="https://chess-readme-stats.vercel.app/api/card/eliabas.svg" /></td>
     </tr>
   </table>
 </div>
